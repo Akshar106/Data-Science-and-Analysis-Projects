@@ -21,4 +21,7 @@ The COVID-19 Analysis project focuses on conducting in-depth data analysis and v
 4. Visualization Techniques
 5. Insights and Recommendations
 
+## 3 - Unemployment In India : 
+Unemployment in India is a complex issue influenced by various factors, including population growth, education, technology, and economic growth. The government plays a vital role in addressing this issue through policy initiatives aimed at job creation, skill development, and social safety nets. Reducing unemployment is essential for achieving inclusive and sustainable economic growth in India.
+
 
