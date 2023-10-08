@@ -1,0 +1,71 @@
+General Population Trends:
+
+	1. What is the overall trend in global population over the years?
+	2. Which countries have experienced the most significant population growth or decline?
+	3. Urban vs. Rural Population:
+
+	How has the balance between urban and rural populations changed over time?
+	Are there countries where urban population growth is outpacing rural population growth, and vice versa?
+Population Density:
+
+	Which countries have the highest and lowest population densities, and how has this changed over time?
+	Are there regions with high population density but low urbanization?
+
+Life Expectancy:
+
+	What is the average life expectancy across different countries and years?
+	How does life expectancy correlate with urbanization and access to healthcare?
+
+Birth and Death Rates:
+
+	Which countries have the highest birth rates, and how have these rates changed?
+	Are there countries with consistently high death rates, and what factors contribute to this?
+
+Fertility Rate:
+
+	How does the fertility rate vary by country and region?
+	Are there countries with fertility rates significantly above or below the replacement rate?
+Infant Mortality Rate:
+
+	Which countries have the highest and lowest infant mortality rates?
+	What factors are associated with high infant mortality rates?
+Population Growth Rate:
+
+	What is the global population growth rate, and how has it fluctuated over time?
+	Can you identify countries with exceptionally high or low population growth rates?
+Country-Specific Analysis:
+
+	How do population trends in a specific country compare to the global averages?
+	Are there unique population challenges or trends in specific countries?
+Impact of Healthcare and Education:
+
+	Is there a correlation between access to healthcare and education and population trends?
+	How does the availability of healthcare services impact birth and death rates?
+Age Distribution:
+
+	What is the age distribution of the population in different countries and regions?
+	Are there countries with rapidly aging populations?
+Gender Ratios:
+
+	Are there countries with significant gender imbalances in their populations?
+	How do gender ratios vary by urban and rural areas?
+Migration and Immigration:
+
+	How has international migration affected the population of different countries?
+	Are there countries with a significant influx of immigrants?
+Economic Factors:
+
+	How do economic factors, such as GDP per capita, correlate with population trends?
+	Does economic development influence birth rates and urbanization?
+Policy Implications:
+
+	What policies and interventions have been successful in influencing population trends?
+	How have family planning programs impacted birth rates in specific countries?
+Forecasting and Future Trends:
+
+	Can you use historical data to make predictions about future population trends?
+	What are the potential challenges and opportunities associated with these trends?
+Geospatial Analysis:
+
+	Are there geographic patterns or hotspots of population growth or decline?
+	How does population density vary across different regions and continents?
