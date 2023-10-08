@@ -27,4 +27,7 @@ Unemployment in India is a complex issue influenced by various factors, includin
 ## Power BI Dashboard : 
 ![image](https://github.com/Akshar106/Data-Science-and-Analysis-Projects/assets/109402115/4f784751-5d12-4977-bfdb-65d0495f15d0)
 
+## 4 - Global Population Trend Analysis : 
+
+
 
