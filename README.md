@@ -38,3 +38,7 @@ global population trend analysis is a multidisciplinary field that involves coll
 5. Urbanization
 6. Dependency Ratios
 
+## Power BI Dashboard : 
+![image](https://github.com/Akshar106/Data-Science-and-Analysis-Projects/assets/109402115/a3f8093b-ceeb-44cb-b5cf-15f907d2b30e)
+
+
