@@ -28,6 +28,6 @@ Unemployment in India is a complex issue influenced by various factors, includin
 ![image](https://github.com/Akshar106/Data-Science-and-Analysis-Projects/assets/109402115/4f784751-5d12-4977-bfdb-65d0495f15d0)
 
 ## 4 - Global Population Trend Analysis : 
-
+global population trend analysis is a multidisciplinary field that involves collecting, analyzing, and interpreting data on various demographic components to understand how the world's population is changing and evolving over time. This analysis plays a critical role in shaping policies and strategies to address the challenges and opportunities associated with population dynamics.
 
 
