@@ -1,0 +1,53 @@
+Possible Questions we should arise while doing billioniaire analysis : 
+
+1- Based on Gender : 
+
+	1. What is the gender distribution among billionaires?
+	2. Are there differences in the sources of wealth between male and female billionaires?
+	3. How does the net worth of male and female billionaires compare?
+
+2 - Based on Age : 
+
+	1. What is the average age of billionaires in the dataset?
+	2. Is there a correlation between age and net worth?
+	3. How does the age distribution differ among billionaires in various industries?
+
+3 - Based on Country and region
+
+	1. Which country has the highest number of billionaires?
+	2. How does the distribution of billionaires vary by continent?
+	3. Are there differences in the sources of wealth among billionaires from different countries?
+
+4 - Based on Source of wealth : 
+
+	1. What are the most common sources of wealth among billionaires in the dataset?
+	2. Can you identify trends in the types of industries that produce the most billionaires?
+	3. Are there differences in the net worth of billionaires based on their source of wealth?
+
+5 - Based on Rank : 
+
+	1. Who are the top billionaires in terms of rank?
+	2. How has the ranking of billionaires changed over time?
+	3. Is there a correlation between rank and age or net worth?
+
+6 - Based on NetWorth : 
+
+	1. What is the distribution of net worth among billionaires? Is it skewed?
+	2. Can you identify outliers with extremely high or low net worth?
+	3. How has the overall net worth of billionaires changed over time?
+
+7 - Based on Industry : 
+
+	1. Which industries have the highest concentration of billionaires?
+	2. Are there industries that tend to produce billionaires at a younger age?
+	3. How does the net worth vary within specific industries?
+
+8 - Based on Correlation : 
+
+	1. Can you identify any significant correlations between variables such as age, net worth, and rank?
+	2. Do certain countries or industries correlate with higher net worth or rank?
+
+9 - Time Series Analysis : 
+
+	1. How has the net worth of individual billionaires changed over time?
+	2. Are there seasonal or cyclical patterns in the data?
