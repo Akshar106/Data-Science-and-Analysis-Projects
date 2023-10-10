@@ -53,4 +53,7 @@ Analyzing worldwide billionaires involves examining various aspects of individua
 6. Global Comparisons
 7. Future Trends
 
+## Power BI Dashboard : 
+![image](https://github.com/Akshar106/Data-Science-and-Analysis-Projects/assets/109402115/385aac09-b447-48f0-9fcd-390fd1c20876)
+
 
