@@ -41,4 +41,16 @@ global population trend analysis is a multidisciplinary field that involves coll
 ## Power BI Dashboard : 
 ![image](https://github.com/Akshar106/Data-Science-and-Analysis-Projects/assets/109402115/a3f8093b-ceeb-44cb-b5cf-15f907d2b30e)
 
+## 5 - WorldWide Billionaire Analysis : 
+Analyzing worldwide billionaires involves examining various aspects of individuals who have achieved extreme wealth. This analysis can encompass a wide range of factors, including their wealth sources, demographics, philanthropy, and global economic impact. 
+
+### Key Features : 
+1. Wealth Sources
+2. Demographics
+3. Wealth Trends
+4. Philanthropy
+5. Wealth Distribution
+6. Global Comparisons
+7. Future Trends
+
 
